@@ -1,5 +1,5 @@
 # Proyecto_Final
-Hola mi nombre es Rober Edison Ruiz
+Hola mi nombre es Rober Edison Ruiz.
 3er año de Informatica
 Héctor Pineda Ugarte 
 Proyecto Final de Diseño Web
